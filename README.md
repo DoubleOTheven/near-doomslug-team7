@@ -1,3 +1,26 @@
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  git clone https://github.com/art-santos/midterm.git
+```
+```bash
+  cd near-doomslug-team7
+```
+
+```bash
+  npm install
+```
+
+```bash
+  npm run build
+```
+
+```bash
+  npm run start
+```
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
